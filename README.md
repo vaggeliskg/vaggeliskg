@@ -53,6 +53,7 @@ Feel free to explore my repositories for more!
   <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
 </p>
 
+<p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaggeliskg&layout=compact&theme=radical&langs_count=6" alt="Top Languages" width="400" height="200" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=vaggeliskg&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="400" height="200" />
