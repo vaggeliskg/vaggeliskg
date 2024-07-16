@@ -53,32 +53,9 @@ Feel free to explore my repositories for more!
   <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
 </p>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Stats</title>
-    <style>
-        .stats-container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            gap: 20px; /* Adjust the space between images */
-        }
-        .stats-container img {
-            width: 400px;
-            height: 200px;
-        }
-    </style>
-</head>
-<body>
-    <div class="stats-container">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaggeliskg&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
-        <img src="https://github-readme-stats.vercel.app/api?username=vaggeliskg&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-    </div>
-</body>
-</html>
-
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaggeliskg&layout=compact&theme=radical&langs_count=6" alt="Top Languages" width="400" height="200" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=vaggeliskg&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="400" height="200" />
+</p>
 
 
