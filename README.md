@@ -1,24 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vaggelis Kalabokis - GitHub Profile</title>
-    <style>
-        .stats-container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            gap: 20px; /* Adjust the space between images */
-        }
-        .stats-container img {
-            width: 400px; /* Set the same width for both images */
-            height: 200px; /* Set the same height for both images */
-        }
-    </style>
-</head>
-<body>
-
 <h1 align="center">Hi there! 👋 I'm Vaggelis Kalabokis</h1>
 <hr>
 <h3 align="center">Passionate about Computer Science | Based in Greece</h3>
@@ -74,13 +53,8 @@ Feel free to explore my repositories for more!
   <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
 </p>
 
-<div class="stats-container">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaggeliskg&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=vaggeliskg&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</div>
-
-</body>
-</html>
-
-
-
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaggeliskg&layout=compact&theme=radical&langs_count=6" alt="Top Languages" width="400" height="200" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=vaggeliskg&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="400" height="200" />
+</p>
