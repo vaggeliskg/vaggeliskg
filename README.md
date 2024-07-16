@@ -10,8 +10,7 @@
 - 🎓 Currently studying Computer Science at the National and Kapodistrian University of Athens
 - 🌱 Currently exploring Web Development, Machine Learning, and Computer Systems Security and Protection
 - 💬 Always keen on exploring new technologies to solve real-life problems
-- 📫 Reach me: vaggeliskg@gmail.com
-- ⚡ Fun fact: Best song ever created: https://www.youtube.com/watch?v=bc0KhhjJP98
+- ⚡ Fun fact: Best song ever created -> https://www.youtube.com/watch?v=bc0KhhjJP98
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,3 +49,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaggeliskg&" alt="vaggeliskg" />
 </p>
+
+- 📫 Reach me: vaggeliskg@gmail.com
