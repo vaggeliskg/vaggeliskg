@@ -41,13 +41,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaggeliskg&show_icons=true&locale=en&layout=compact" alt="vaggeliskg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaggeliskg&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=vaggeliskg&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaggeliskg&show_icons=true&locale=en" alt="vaggeliskg" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaggeliskg&" alt="vaggeliskg" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaggeliskg&theme=radical" alt="GitHub Streak" />
 </p>
