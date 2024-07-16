@@ -56,5 +56,5 @@ Feel free to explore my repositories for more!
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaggeliskg&layout=compact&theme=radical&langs_count=6" alt="Top Languages" width="400" height="200" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=vaggeliskg&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="490" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaggeliskg&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="500" height="200" />
 </p>
