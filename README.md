@@ -10,7 +10,7 @@
 </p>
 
 - 🎓 Currently studying Computer Science at the National and Kapodistrian University of Athens
-- 🌱 Currently exploring Web Development, Machine Learning, and Computer Systems Security and Protection
+- 🌱 Currently learning Web Development, Machine Learning, and Computer Systems Security and Protection
 - 💬 Always keen on exploring new technologies to solve real-life problems
 - 🛠️ Enthusiast for a variety of projects.
 - 📫 Reach out to me via email: vaggeliskg@gmail.com
