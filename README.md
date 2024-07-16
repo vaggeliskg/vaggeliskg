@@ -17,9 +17,9 @@
 
 <h3 align="left">Projects</h3>
 
-- [Implementation-of-Database-Systems](https://github.com/vaggeliskg/Implementation-of-Database-Systems): Implementing a database using extendible hash tables and more...
-- [WerewolvesVsVampires](https://github.com/vaggeliskg/WerewolvesVsVampires): Terminal based game using C++ and Object Oriented Programming techniques
-- [Operating-Systems](https://github.com/vaggeliskg/Operating-Systems): Communication via shared memory using semaphores and threads
+- [Implementation-of-Database-Systems](https://github.com/vaggeliskg/Implementation-of-Database-Systems-Project2): Implementing a database using extendible hash tables and more...
+- [WerewolvesVsVampires](https://github.com/vaggeliskg/Werewolves-VS-Vampires): Terminal based game using C++ and Object Oriented Programming techniques!
+- [Operating-Systems](https://github.com/vaggeliskg/Multithreaded-Server): Multithreaded server using signals, semaphores and many more!
 
 Feel free to explore my repositories for more!
 
