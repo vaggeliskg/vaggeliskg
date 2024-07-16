@@ -1,24 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vaggelis Kalabokis - GitHub Profile</title>
-    <style>
-        .stats-container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            gap: 20px; /* Adjust the space between images */
-        }
-        .stats-container img {
-            width: 400px; /* Set the same width for both images */
-            height: 200px; /* Set the same height for both images */
-        }
-    </style>
-</head>
-<body>
-
 <h1 align="center">Hi there! 👋 I'm Vaggelis Kalabokis</h1>
 <hr>
 <h3 align="center">Passionate about Computer Science | Based in Greece</h3>
@@ -30,28 +9,28 @@
   <img src="https://komarev.com/ghpvc/?username=vaggeliskg&label=Profile%20views&color=0e75b6&style=flat" alt="vaggeliskg" />
 </p>
 
-- 🎓 Currently studying Computer Science at the <a href="https://en.uoa.gr/" target="_blank">National and Kapodistrian University of Athens</a>
+- 🎓 Currently studying Computer Science at the National and Kapodistrian University of Athens
 - 🌱 Currently learning Web Development, Machine Learning, and Computer Systems Security and Protection
 - 💬 Always keen on exploring new technologies to solve real-life problems
 - 🛠️ Enthusiast for a variety of projects.
-- 📫 Reach out to me via email: <a href="mailto:vaggeliskg@gmail.com" target="_blank">vaggeliskg@gmail.com</a>
-- ⚡ Fun fact: Best song ever created -> <a href="https://www.youtube.com/watch?v=bc0KhhjJP98" target="_blank">https://www.youtube.com/watch?v=bc0KhhjJP98</a>
+- 📫 Reach out to me via email: vaggeliskg@gmail.com
+- ⚡ Fun fact: Best song ever created -> https://www.youtube.com/watch?v=bc0KhhjJP98
 
 <h3 align="left">My work so far</h3>
 <hr>
   Some of My favourite projects:
   
-- <a href="https://github.com/vaggeliskg/Implementation-of-Database-Systems-Project2" target="_blank">Implementation-of-Database-Systems</a>: Implementing a database using extendible hash tables and more...
-- <a href="https://github.com/vaggeliskg/Werewolves-VS-Vampires" target="_blank">WerewolvesVsVampires</a>: Terminal based game using C++ and Object Oriented Programming techniques!
-- <a href="https://github.com/vaggeliskg/Multithreaded-Server" target="_blank">System-Programming</a>: Multithreaded server using signals, semaphores and many more!
+- [Implementation-of-Database-Systems](https://github.com/vaggeliskg/Implementation-of-Database-Systems-Project2): Implementing a database using extendible hash tables and more...
+- [WerewolvesVsVampires](https://github.com/vaggeliskg/Werewolves-VS-Vampires): Terminal based game using C++ and Object Oriented Programming techniques!
+- [System-Programming](https://github.com/vaggeliskg/Multithreaded-Server): Multithreaded server using signals, semaphores and many more!
 
 Feel free to explore my repositories for more!
 
 <h3 align="left">Connect with me:</h3>
 <hr>
 <p align="left">
-  <a href="https://instagram.com/vaggelis_9" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaggelis_9" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/vaggeliskg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaggeliskg" height="30" width="40" /></a>
+  <a href="https://instagram.com/vaggelis_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaggelis_9" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/vaggeliskg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaggeliskg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -74,11 +53,9 @@ Feel free to explore my repositories for more!
   <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
 </p>
 
-<div class="stats-container">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaggeliskg&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=vaggeliskg&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</div>
-
-</body>
-</html>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaggeliskg&layout=compact&theme=radical&langs_count=6" alt="Top Languages" width="400" height="200" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=vaggeliskg&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="500" height="200" />
+</p>
 
