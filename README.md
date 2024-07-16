@@ -19,6 +19,7 @@
 <hr>
 
 <h3 align="left">Some of My favourite projects are:</h3>
+
 - [Implementation-of-Database-Systems](https://github.com/vaggeliskg/Implementation-of-Database-Systems-Project2): Implementing a database using extendible hash tables and more...
 - [WerewolvesVsVampires](https://github.com/vaggeliskg/Werewolves-VS-Vampires): Terminal based game using C++ and Object Oriented Programming techniques!
 - [System-Programming](https://github.com/vaggeliskg/Multithreaded-Server): Multithreaded server using signals, semaphores and many more!
