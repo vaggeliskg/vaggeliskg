@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaggelis Kalabokis</h1>
 <h3 align="center">A passionate computer scientist from Greece</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/search?sca_esv=01c6b6c64d473f5a&rlz=1C5CHFA_enGR960GR960&sxsrf=ADLYWILXroDiSG9MIN9IF_qX4WL4QlnH-Q:1721129559808&q=animated+coding+gif&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2joQcoZ-0Q2Udkt2zEybT7HdNV1kobqvEwEVRYBCltlBtQd5-pPeakpVgpgEn2RgmgzeZo15rltNMrDtoZe63sl46hHJXZmfPBeZdqdwrtlSxkvce3I&sa=X&ved=2ahUKEwjU_Zigu6uHAxV1gf0HHTz0DykQtKgLegQIFBAB&biw=1440&bih=813&dpr=2#vhid=35X6L1D39_KDvM&vssid=mosaic")
+<img align="right" alt="Coding" width="400" src="https://www.google.com/search?sca_esv=01c6b6c64d473f5a&rlz=1C5CHFA_enGR960GR960&sxsrf=ADLYWILXroDiSG9MIN9IF_qX4WL4QlnH-Q:1721129559808&q=animated+coding+gif&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2joQcoZ-0Q2Udkt2zEybT7HdNV1kobqvEwEVRYBCltlBtQd5-pPeakpVgpgEn2RgmgzeZo15rltNMrDtoZe63sl46hHJXZmfPBeZdqdwrtlSxkvce3I&sa=X&ved=2ahUKEwjU_Zigu6uHAxV1gf0HHTz0DykQtKgLegQIFBAB&biw=1440&bih=813&dpr=2#vhid=35X6L1D39_KDvM&vssid=mosaic">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaggeliskg&label=Profile%20views&color=0e75b6&style=flat" alt="vaggeliskg" /> </p>
 
