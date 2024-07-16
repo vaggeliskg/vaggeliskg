@@ -14,6 +14,15 @@
 
 - 📫 Reach out to me via email: vaggeliskg@gmail.com
 
+
+<h3 align="left">Projects</h3>
+
+- [Implementation-of-Database-Systems](https://github.com/vaggeliskg/Implementation-of-Database-Systems): Implementing a database using extendible hash tables and more...
+- [WerewolvesVsVampires](https://github.com/vaggeliskg/WerewolvesVsVampires): Terminal based game using C++ and Object Oriented Programming techniques
+- [Operating-Systems](https://github.com/vaggeliskg/Operating-Systems): Communication via shared memory using semaphores and threads
+
+Feel free to explore my repositories for more!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/gkoulas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gkoulas" height="30" width="40" /></a>
