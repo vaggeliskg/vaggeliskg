@@ -1,9 +1,10 @@
 ## Hi there 👋 I'm Vaggelis Kalabokis!
 
+##About me
 
-#🎓 Currently studying Computer Science at the National and Kapodistrian University of Athens
+🎓 Currently studying Computer Science at the National and Kapodistrian University of Athens
 
-#🌱 I’m currently learning subjects such as Machine Learning, Information Security and Web Development!
+🌱 I’m currently learning subjects such as Machine Learning, Information Security and Web Development!
 
 <!--
 **vaggeliskg/vaggeliskg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
