@@ -16,6 +16,8 @@
 - 📫 Reach out to me via email: vaggeliskg@gmail.com
 - ⚡ Fun fact: Best song ever created -> https://www.youtube.com/watch?v=bc0KhhjJP98
 
+  <hr>
+
 <h3 align="left">My work so far</h3>
 <hr>
   Some of My favourite projects:
