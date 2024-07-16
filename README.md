@@ -12,6 +12,8 @@
 - 💬 Always keen on exploring new technologies to solve real-life problems
 - ⚡ Fun fact: Best song ever created -> https://www.youtube.com/watch?v=bc0KhhjJP98
 
+- 📫 Reach out to me via email: vaggeliskg@gmail.com
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/gkoulas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gkoulas" height="30" width="40" /></a>
@@ -49,5 +51,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaggeliskg&" alt="vaggeliskg" />
 </p>
-
-- 📫 Reach me: vaggeliskg@gmail.com
