@@ -28,6 +28,7 @@
 
 Feel free to explore my repositories for more!
 
+<hr>
 <h3 align="left">Connect with me:</h3>
 <hr>
 <p align="left">
