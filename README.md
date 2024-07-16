@@ -13,7 +13,7 @@
 - 🌱 Currently exploring Web Development, Machine Learning, and Computer Systems Security and Protection
 - 💬 Always keen on exploring new technologies to solve real-life problems
 - 🛠️ Enthusiast for a variety of projects.
-- - 📫 Reach out to me via email: vaggeliskg@gmail.com
+- 📫 Reach out to me via email: vaggeliskg@gmail.com
 - ⚡ Fun fact: Best song ever created -> https://www.youtube.com/watch?v=bc0KhhjJP98
 
 <h3 align="left">Some of my favorite Projects</h3>
