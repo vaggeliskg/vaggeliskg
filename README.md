@@ -35,7 +35,7 @@ Feel free to explore my repositories for more!
   <a href="https://instagram.com/vaggelis_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaggelis_9" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/vaggeliskg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaggeliskg" height="30" width="40" /></a>
 </p>
-
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 <hr>
 <p align="left">
