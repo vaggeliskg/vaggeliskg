@@ -3,7 +3,7 @@
 <h3 align="center">Passionate about Computer Science | Based in Greece</h3>
 <hr>
 
-<img align="right" alt="Coding" width="400" src="https://za.pinterest.com/pin/1970393582467200/">
+<img align="right" alt="Coding" width="400" src="[https://za.pinterest.com/pin/1970393582467200/](https://in.pinterest.com/pin/42995371460484808/)">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vaggeliskg&label=Profile%20views&color=0e75b6&style=flat" alt="vaggeliskg" />
