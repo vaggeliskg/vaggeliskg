@@ -3,8 +3,10 @@
 <h3 align="center">Passionate about Computer Science | Based in Greece</h3>
 <hr>
 
-<img alt="Coding" width="400" 
-     src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
+<p align="center">
+  <img alt="Coding" width="400" 
+       src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
+</p>
 
 
 <p align="left">
