@@ -3,7 +3,7 @@
 <h3 align="center">Passionate about Computer Science | Based in Greece</h3>
 <hr>
 
-<img align="right" alt="Coding" width="400" src="[https://za.pinterest.com/pin/1970393582467200/](https://in.pinterest.com/pin/42995371460484808/)">
+<img align="right" alt="Coding" width="400" src="[[https://za.pinterest.com/pin/1970393582467200/](https://in.pinterest.com/pin/42995371460484808/)](https://www.google.com/search?sca_esv=7fc613d9cd9ef286&rlz=1C1GCEA_enGR1130GR1130&sxsrf=AE3TifOV_XKTzJg_vEGYYtw7Y8cMRoEVGA:1756829155750&q=pixel+art+gif+cozy+animated+programmer+gifs&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzEvS-t1P1j01-Fr9tL84b6uvKGZ13Ni1wlvr2kUGwHPvSH5dW2ReK8ElSv1oAiskzmaNEx3SoL1ma6UcjyMOrHRVqYJMLQE1bIl6GVNCiKuWOFY2f8K2vUd_qMit05yN84_Byeh_LqYUvgX1LrHhJ06hozsz1qCW6f5vM0jRRkVgnmeB6&udm=2&sa=X&ved=2ahUKEwif8IjOurqPAxXzg_0HHZNxI4cQxKsJKAF6BAgVEAE&ictx=0&biw=1920&bih=911&dpr=1#vhid=GRZN67E2ei6e5M&vssid=mosaic)">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vaggeliskg&label=Profile%20views&color=0e75b6&style=flat" alt="vaggeliskg" />
