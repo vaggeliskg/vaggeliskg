@@ -24,7 +24,8 @@
 
 <h3 align="left">Some of My favourite projects are:</h3>
 
-
+- [See-Sea](https://github.com/vaggeliskg/seeSea-main): A fully functional Vessel Traffic Services Web App.
+- [WorkWave](https://github.com/vaggeliskg/workwave): WorkWave is a LinkedIn-like social networking app built with modern web technologies, it uses MongoDB for structured data and Azure Blob Storage for files and images
 - [Implementation-of-Database-Systems](https://github.com/vaggeliskg/Implementation-of-Database-Systems-Project2): Implementing a database using extendible hash tables and more...
 - [WerewolvesVsVampires](https://github.com/vaggeliskg/Werewolves-VS-Vampires): Terminal based game using C++ and Object Oriented Programming techniques!
 - [System-Programming](https://github.com/vaggeliskg/Multithreaded-Server): Multithreaded server using signals, semaphores, condition variables and many more!
