@@ -9,8 +9,8 @@
   <img src="https://komarev.com/ghpvc/?username=vaggeliskg&label=Profile%20views&color=0e75b6&style=flat" alt="vaggeliskg" />
 </p>
 
-- 🎓 Currently studying Computer Science at the National and Kapodistrian University of Athens
-- 🌱 Currently learning Web Development, Machine Learning, and Computer Systems Security and Protection
+- 🎓 Studied Computer Science at the National and Kapodistrian University of Athens
+- 🌱 Currently learning Web Development, Machine Learning and working on Java-SpringBoot and C# .NET Projects
 - 💬 Always keen on exploring new technologies to solve real-life problems
 - 🛠️ Enthusiast for a variety of projects.
 - 📫 Reach out to me via email: vaggeliskg@gmail.com
